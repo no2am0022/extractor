@@ -8,7 +8,7 @@ This project reads IRS 990, 990-EZ and 990-PF XML files and parses data out into
   ```
   pip install -r requirements.txt
   ```
-3. Put data files into `./data` directory
+3. Put data files into `./data` directory (in any structure, all files in subtree will be scanned)
 4. Create an empty `./output` directory
 5. Run
   ```
