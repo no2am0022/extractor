@@ -11,7 +11,7 @@ This project reads IRS 990, 990-EZ and 990-PF XML files and parses data out into
 3. Put data files into `./data` directory
 4. Create an empty `./output` directory
 5. Run
-   ```
-   python main.py
-   ```
+  ```
+  python main.py
+  ```
 
